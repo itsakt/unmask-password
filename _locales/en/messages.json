@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Unmask Password",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Show contents of password input as plain text.",
+    "description": "Description of the add-on."
+  },
+"contextMenuItemUnmask": {
+    "message": "Show Password",
+    "description": "Click to show password."
+  }
+}
